@@ -4,7 +4,7 @@ In your latest role, you've become the Chief Data Scientist for your city's scho
 As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
 Your final report should include each of the following:
 
-# District Summary
+## District Summary
 
 Create a high level snapshot (in table form) of the district's key metrics, including:
 
@@ -20,7 +20,7 @@ Average Reading Score
 
 
 
-# School Summary
+## School Summary
 
 Create an overview table that summarizes key metrics about each school, including:
 
@@ -38,7 +38,7 @@ Average Reading Score
 
 
 
-# Top Performing Schools (By % Overall Passing)
+## Top Performing Schools (By % Overall Passing)
 
 Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
 
@@ -56,22 +56,22 @@ Average Reading Score
 
 
 
-# Bottom Performing Schools (By % Overall Passing)
+## Bottom Performing Schools (By % Overall Passing)
 
 Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
 
-# Math Scores by Grade**
+## Math Scores by Grade**
 
 Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 
-# Reading Scores by Grade
+## Reading Scores by Grade
 
 Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 
-# Scores by School Spending
+## Scores by School Spending
 
 Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
 
@@ -84,11 +84,11 @@ Average Reading Score
 
 
 
-# Scores by School Size
+## Scores by School Size
 
 Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
 
-# Scores by School Type
+## Scores by School Type
 
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
